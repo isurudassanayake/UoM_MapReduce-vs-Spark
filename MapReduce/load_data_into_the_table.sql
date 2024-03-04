@@ -1,0 +1,1 @@
+LOAD DATA INPATH 'hdfs:///output-folder/DelayedFlights-updated.csv' INTO TABLE delay_flights;
